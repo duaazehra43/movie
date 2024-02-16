@@ -1,16 +1,7 @@
-# moviesapp
+# Flutter Movie App
+This Flutter project is a movie app that showcases various movie series in detail pages. Each movie series comes with a brief description and its associated movies. Users can navigate through the app to explore different movie series and view detailed information about each movie.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Displays a list of movie series with their respective hero names and poster images.
+Provides detailed information about each movie series including a description and list of associated movies.
+Allows users to navigate to a detailed page for each movie to view additional information such as title, rating, and poster image.
